@@ -1,0 +1,8 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+outputs/
+mysql_data/
+venv/ 
+*.csv
